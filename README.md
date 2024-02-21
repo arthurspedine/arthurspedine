@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arthur Spedine</h1>
 <h3 align="center">An excited student who is discovering yourself in the field of programming.</h3>
 
