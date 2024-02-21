@@ -11,7 +11,7 @@ My name is Arthur Spedine, I'm 17 years old.
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ### 🚀 Tools
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
   ![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
   
