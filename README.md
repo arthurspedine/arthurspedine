@@ -7,7 +7,7 @@ My name is Arthur Spedine, I'm 17 years old.
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
   ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php)
   ![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3)
+  ![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ### 🚀 Tools
