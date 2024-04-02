@@ -12,6 +12,7 @@ My name is Arthur Spedine, I'm 17 years old.
 
 ### 🚀 Tools
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
   ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
   ![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
   
