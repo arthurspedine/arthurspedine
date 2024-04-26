@@ -21,8 +21,8 @@ My name is Arthur Spedine, I'm 17 years old.
 
 ### 🖥️ Stats
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=arthurspedine&theme=blueberry-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=arthurspedine&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=arthurspedine&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/arthurspedine/) 
+  [![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=arthurspedine&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&hide_title=true&icon_color=F8D866)](https://github.com/arthurspedine/)
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurspedine&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurspedine&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
