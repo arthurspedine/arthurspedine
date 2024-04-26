@@ -20,7 +20,8 @@ My name is Arthur Spedine, I'm 17 years old.
 <a href="https://linkedin.com/in/arthurspedine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-spedine-8269732a6" height="30" width="30" /></a>
 
 ### 🖥️ Stats
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurspedine&theme=ayu-mirage)](https://git.io/streak-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=arthurspedine&theme=blueberry-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=arthurspedine&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/arthurspedine/) 
   
