@@ -3,6 +3,7 @@
 My name is Arthur Spedine, I'm 17 years old.
 
 ### 📋 Technologies
+  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
   ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
   ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php)
