@@ -16,7 +16,7 @@ My name is Arthur Spedine, I'm 17 years old.
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
   ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
   ![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
-  ![INSOMNIA](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git](https://img.shields.io/badge/insomnia-000000?style=for-the-badge&logo=insomnia))
+  ![INSOMNIA](https://img.shields.io/badge/insomnia-000000?style=for-the-badge&logo=insomnia)
   
 ### 💬 Contact
 <a href="https://linkedin.com/in/arthurspedine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-spedine-8269732a6" height="30" width="30" /></a>
