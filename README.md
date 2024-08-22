@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Arthur Spedine, I'm 17 years old.
+My name is Arthur Spedine, I'm 18 years old.
 
 ### 📋 Technologies
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
