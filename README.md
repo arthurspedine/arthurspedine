@@ -4,18 +4,21 @@ My name is Arthur Spedine, I'm 18 years old.
 
 ### 📋 Technologies
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+  ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=spring)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+  ![React](https://img.shields.io/badge/react%20js-000000?style=for-the-badge&logo=react)
   ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
   ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php)
-  ![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)
 
 ### 🚀 Tools
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
-  ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
   ![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
+  ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
   ![INSOMNIA](https://img.shields.io/badge/insomnia-000000?style=for-the-badge&logo=insomnia)
   
 ### 💬 Contact
